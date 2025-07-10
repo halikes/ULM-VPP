@@ -1,3 +1,9 @@
+<style>
+.site-title {
+  display: none !important;
+}
+</style>
+
 ---
 layout: default
 title: Video Object Insertion Demo
