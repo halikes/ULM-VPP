@@ -1,15 +1,11 @@
 # A User-Guided and Motion-Adaptive Framework for Virtual Product Placement in Video
-[![Paper](https://img.shields.io/badge/arXiv-YYYY.NNNNN-red)](https://arxiv.org/abs/YYYY.NNNNN)
+[![Project Page]]( https://halikes.github.io/UM-VPP/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-Official implementation of the paper:
 
 ## 🚀 Demo
 
 ![demo_gif](figures/demo.gif)
-
-## 📄 Abstract
-> 
 
 ## 🧠 Method Overview
 
