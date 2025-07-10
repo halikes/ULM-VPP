@@ -44,13 +44,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_1_orl.mp4" type="video/mp4">
+      <source src="/assets/test_video_1_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_1.mp4" type="video/mp4">
+      <source src="/assets/test_video_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -61,13 +61,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_2_orl.mp4" type="video/mp4">
+      <source src="/assets/test_video_2_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_2.mp4" type="video/mp4">
+      <source src="/assets/test_video_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -78,13 +78,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_3_orl.mp4" type="video/mp4">
+      <source src="/assets/test_video_3_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_3.mp4" type="video/mp4">
+      <source src="/assets/test_video_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -95,13 +95,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_4_orl.mp4" type="video/mp4">
+      <source src="/assets/test_video_4_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_4.mp4" type="video/mp4">
+      <source src="/assets/test_video_4.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -112,13 +112,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_5_orl.mp4" type="video/mp4">
+      <source src="/assets/test_video_5_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="UM-VPP/assets/test_video_5.mp4" type="video/mp4">
+      <source src="/assets/test_video_5.mp4" type="video/mp4">
     </video>
   </div>
 </div>
