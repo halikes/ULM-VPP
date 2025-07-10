@@ -1,24 +1,22 @@
+---
+layout: default
+title: A User-Guided and Motion-Adaptive Framework for Virtual Product Placement in Video
+---
+
 <style>
 .site-title {
   display: none !important;
 }
-</style>
-
----
-layout: default
-title: Video Object Insertion Demo
----
-
-# 🔄 Sample Videos
-
-<style>
 .video-row {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  align-items: flex-start;
 }
 .video-col {
   flex: 1;
+  min-width: 280px;
   text-align: center;
 }
 video {
@@ -31,9 +29,17 @@ video {
   font-weight: bold;
   margin-bottom: 10px;
 }
+.sample-label {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin: 10px 0;
+}
 </style>
 
+# 🔄 Sample Videos
+
 <!-- Sample 1 -->
+<div class="sample-label">Sample 1</div>
 <div class="video-row">
   <div class="video-col">
     <div class="caption">Original</div>
@@ -50,6 +56,7 @@ video {
 </div>
 
 <!-- Sample 2 -->
+<div class="sample-label">Sample 2</div>
 <div class="video-row">
   <div class="video-col">
     <div class="caption">Original</div>
@@ -66,6 +73,7 @@ video {
 </div>
 
 <!-- Sample 3 -->
+<div class="sample-label">Sample 3</div>
 <div class="video-row">
   <div class="video-col">
     <div class="caption">Original</div>
@@ -82,6 +90,7 @@ video {
 </div>
 
 <!-- Sample 4 -->
+<div class="sample-label">Sample 4</div>
 <div class="video-row">
   <div class="video-col">
     <div class="caption">Original</div>
@@ -98,6 +107,7 @@ video {
 </div>
 
 <!-- Sample 5 -->
+<div class="sample-label">Sample 5</div>
 <div class="video-row">
   <div class="video-col">
     <div class="caption">Original</div>
@@ -120,9 +130,4 @@ video {
 If you find this work helpful, please cite:
 
 ```bibtex
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={}
-}
+
