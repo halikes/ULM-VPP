@@ -1,46 +1,111 @@
 ---
 layout: default
-title: A User-Guided and Motion-Adaptive Framework for Virtual Product Placement in Video
+title: Video Object Insertion Demo
 ---
-## 🔄 Sample Videos
 
-| **Original Video** | **Result Video** |
-|-----------|----------------|
+# 🔄 Sample Videos
 
-| <video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_1_orl.mp4" type="video/mp4">
-</video> |
-<video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_1.mp4" type="video/mp4">
-</video> |
+<style>
+.video-row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.video-col {
+  flex: 1;
+  text-align: center;
+}
+video {
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.caption {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+</style>
 
-| <video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_2_orl.mp4" type="video/mp4">
-</video> |
-<video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_2.mp4" type="video/mp4">
-</video> |
+<!-- Sample 1 -->
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_1_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_1.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 
-| <video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_3_orl.mp4" type="video/mp4">
-</video> |
-<video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_3.mp4" type="video/mp4">
-</video> |
+<!-- Sample 2 -->
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_2_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_2.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 
-| <video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_4_orl.mp4" type="video/mp4">
-</video> |
-<video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_4.mp4" type="video/mp4">
-</video> |
+<!-- Sample 3 -->
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_3_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_3.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 
-| <video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_5_orl.mp4" type="video/mp4">
-</video> |
-<video width="300" autoplay loop muted controls>
-  <source src="assets/test_video_5.mp4" type="video/mp4">
-</video> |
+<!-- Sample 4 -->
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_4_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_4.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<!-- Sample 5 -->
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_5_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_5.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 
 ---
 
@@ -53,5 +118,5 @@ If you find this work helpful, please cite:
   title={},
   author={},
   booktitle={},
-  year={2025}
+  year={}
 }
