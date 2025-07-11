@@ -12,11 +12,10 @@
     <a href=""><strong>Keunsoo Ko</strong></a><sup>†</sup>
     <br>
     <br>
-        <a href=""><img src='' alt='Paper PDF'></a>
-        <a href="https://halikes.github.io/UM-VPP/"><img  alt='Project Page'></a>
+        <a href="">Paper PDF</a>
+        <a href="https://halikes.github.io/UM-VPP/">Project Page</a>
     <br>
     
-    <br>
   </p>
 </p>
 
@@ -31,13 +30,13 @@
   <tr>
     <td>
       <video width="300" autoplay loop muted controls>
-        <source src="https://github.com/halikes/UM-VPP/assets/test_video_1_orl.mp4" type="video/mp4">
+        <source src="assets/test_video_1_orl.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="300" autoplay loop muted controls>
-        <source src="https://github.com/halikes/UM-VPP/tree/main/assets/test_video_1.mp4" type="video/mp4">
+        <source src="assets/test_video_1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>

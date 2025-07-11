@@ -44,13 +44,13 @@ video {
   <div class="video-col">
     <div class="caption">Original</div>
     <video controls autoplay loop muted>
-      <source src="/assets/test_video_1_orl.mp4" type="video/mp4">
+      <source src="assets/test_video_1_orl.mp4" type="video/mp4">
     </video>
   </div>
   <div class="video-col">
     <div class="caption">Result</div>
     <video controls autoplay loop muted>
-      <source src="/assets/test_video_1.mp4" type="video/mp4">
+      <source src="assets/test_video_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
