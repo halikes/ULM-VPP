@@ -41,6 +41,7 @@
 
 ```bash
 pip install -r requirements.txt
+```
 
 Run pre-process first - need GUI
 Then run main-process
