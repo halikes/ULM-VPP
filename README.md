@@ -22,28 +22,21 @@
 
 ## 🚀 Demo
 
-<table>
-  <tr>
-    <th>Original Video</th>
-    <th>Result Video</th>
-  </tr>
-  <tr>
-    <td>
-      <video width="300" autoplay loop muted controls>
-        <source src="assets/test_video_1_orl.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="300" autoplay loop muted controls>
-        <source src="assets/test_video_1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
-
-
+<div class="sample-label"></div>
+<div class="video-row">
+  <div class="video-col">
+    <div class="caption">Original</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_1_orl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="video-col">
+    <div class="caption">Result</div>
+    <video controls autoplay loop muted>
+      <source src="assets/test_video_1.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
 ## Useage
 
 ```bash
