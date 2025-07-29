@@ -53,16 +53,3 @@ Make sure the final processed size is the same as the video size
 
 ## &#x2696; License
 This repository is released under the MIT license as found in the [LICENSE](LICENSE) file.
-
-## &#x1F4DA; Citation
-If you find this codebase useful for your research, please use the following entry.
-```BibTeX
-@misc{tu2025videoanydoorhighfidelityvideoobject,
-      title={VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control}, 
-      author={Yuanpeng Tu and Hao Luo and Xi Chen and Sihui Ji and Xiang Bai and Hengshuang Zhao},
-      year={2025},
-      journal={arXiv preprint arXiv:2501.01427}, 
-}
-        
-
-```
