@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">A User-Guided and Motion-Adaptive Framework for Virtual Product Placement in Video</h2>
+  <h2 align="center">A User-Guided and Local Motion-Adaptive Framework for Virtual Product Placement in Video</h2>
   <p align="center">
     <a href=""><strong>TIANWEN ZHANG</strong></a>
     ·
