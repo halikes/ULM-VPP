@@ -13,7 +13,7 @@
     <br>
     <br>
         <a href="">Paper PDF</a>
-        <a href="https://halikes.github.io/UM-VPP/">Project Page</a>
+        <a href="https://halikes.github.io/ULM-VPP/">Project Page</a>
     <br>
     
   </p>
